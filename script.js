@@ -2,6 +2,7 @@
 // 0. CONFIGURATION ADMIN (المالك) ⭐
 // ====================================================
 const ADMIN_EMAIL = "showb2131@gmail.com";
+const ADMIN_CODE = "16050398";
 const ADMIN_STAR = "⭐";
 
 function isAdmin(email) {
